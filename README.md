@@ -1,4 +1,4 @@
-[![Bread](/images/top-logo.jpg)](https://itunes.apple.com/app/breadwallet/id885251393)
+![ƀ](/images/icon.png) breadwallet for android
 
 ## The easy and secure bitcoin wallet
 
