@@ -1,4 +1,4 @@
-![ƀ](/images/icon.png) breadwallet for android
+![ƀ](/images/icon.png) breadwallet for IOS
 
 ## The easy and secure bitcoin wallet
 
